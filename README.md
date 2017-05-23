@@ -1,2 +1,2 @@
-# transducer-physics
-Assignments for  Transducers Physics
+# transducers
+Assignments for Transducers
